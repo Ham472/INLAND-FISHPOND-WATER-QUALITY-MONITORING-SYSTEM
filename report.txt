@@ -1,0 +1,184 @@
+Info: Processing symbol 'A1:Module:Arduino_UNO_R3'.
+Info: Processing symbol 'RV2:'.
+Info: Processing symbol 'U4:'.
+Info: Processing symbol 'RV3:'.
+Info: Processing symbol 'U3:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'RV4:'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'U2:Display:LCD-016N002L'.
+Info: Processing symbol 'L1:'.
+Info: Processing symbol 'U1:Sensor:Aosong_DHT11_5.5x12.0_P2.54mm'.
+Info: Processing symbol 'RV1:'.
+Info: Processing symbol 'U5:'.
+Added A1 (footprint 'Module:Arduino_UNO_R3').
+Changed REF** reference designator to A1.
+Updated A1 symbol association from  to /d09d4135-31f4-4ed3-a2eb-c696db7dc8bf.
+Updated A1 fields.
+Updated A1 sheetname to 'Root'.
+Updated A1 sheetfile to 'circuit _board.kicad_sch'.
+Updated A1 footprint filters to 'Arduino*UNO*R3*'.
+Add net unconnected-(A1-SDA/A4-Pad13).
+Connected A1 pin 13 to unconnected-(A1-SDA/A4-Pad13).
+Add net unconnected-(A1-D4-Pad19).
+Connected A1 pin 19 to unconnected-(A1-D4-Pad19).
+Add net unconnected-(A1-GND-Pad29).
+Connected A1 pin 29 to unconnected-(A1-GND-Pad29).
+Add net unconnected-(A1-D3-Pad18).
+Connected A1 pin 18 to unconnected-(A1-D3-Pad18).
+Add net Net-(A1-A2).
+Connected A1 pin 11 to Net-(A1-A2).
+Add net unconnected-(A1-SCL/A5-Pad14).
+Connected A1 pin 14 to unconnected-(A1-SCL/A5-Pad14).
+Add net unconnected-(A1-D11-Pad26).
+Connected A1 pin 26 to unconnected-(A1-D11-Pad26).
+Add net unconnected-(A1-D0/RX-Pad15).
+Connected A1 pin 15 to unconnected-(A1-D0/RX-Pad15).
+Add net unconnected-(A1-D7-Pad22).
+Connected A1 pin 22 to unconnected-(A1-D7-Pad22).
+Add net unconnected-(A1-GND-Pad7).
+Connected A1 pin 7 to unconnected-(A1-GND-Pad7).
+Add net unconnected-(A1-VIN-Pad8).
+Connected A1 pin 8 to unconnected-(A1-VIN-Pad8).
+Add net unconnected-(A1-D1/TX-Pad16).
+Connected A1 pin 16 to unconnected-(A1-D1/TX-Pad16).
+Add net Net-(U3-SCL).
+Connected A1 pin 32 to Net-(U3-SCL).
+Add net unconnected-(A1-A3-Pad12).
+Connected A1 pin 12 to unconnected-(A1-A3-Pad12).
+Add net unconnected-(A1-AREF-Pad30).
+Connected A1 pin 30 to unconnected-(A1-AREF-Pad30).
+Add net Net-(A1-A0).
+Connected A1 pin 9 to Net-(A1-A0).
+Add net unconnected-(A1-D5-Pad20).
+Connected A1 pin 20 to unconnected-(A1-D5-Pad20).
+Add net unconnected-(A1-NC-Pad1).
+Connected A1 pin 1 to unconnected-(A1-NC-Pad1).
+Add net unconnected-(A1-D13-Pad28).
+Connected A1 pin 28 to unconnected-(A1-D13-Pad28).
+Add net unconnected-(A1-3V3-Pad4).
+Connected A1 pin 4 to unconnected-(A1-3V3-Pad4).
+Add net unconnected-(A1-~{RESET}-Pad3).
+Connected A1 pin 3 to unconnected-(A1-~{RESET}-Pad3).
+Add net unconnected-(A1-D12-Pad27).
+Connected A1 pin 27 to unconnected-(A1-D12-Pad27).
+Add net unconnected-(A1-D6-Pad21).
+Connected A1 pin 21 to unconnected-(A1-D6-Pad21).
+Add net unconnected-(A1-D9-Pad24).
+Connected A1 pin 24 to unconnected-(A1-D9-Pad24).
+Add net unconnected-(A1-D10-Pad25).
+Connected A1 pin 25 to unconnected-(A1-D10-Pad25).
+Add net Net-(U3-SDA).
+Connected A1 pin 31 to Net-(U3-SDA).
+Add net Net-(A1-A1).
+Connected A1 pin 10 to Net-(A1-A1).
+Add net unconnected-(A1-IOREF-Pad2).
+Connected A1 pin 2 to unconnected-(A1-IOREF-Pad2).
+Add net unconnected-(A1-GND-Pad6).
+Connected A1 pin 6 to unconnected-(A1-GND-Pad6).
+Add net unconnected-(A1-+5V-Pad5).
+Connected A1 pin 5 to unconnected-(A1-+5V-Pad5).
+Add net unconnected-(A1-D8-Pad23).
+Connected A1 pin 23 to unconnected-(A1-D8-Pad23).
+Add net Net-(A1-D2).
+Connected A1 pin 17 to Net-(A1-D2).
+Connected U3 pin 5 to Net-(U2-R/~{W}).
+Connected U3 pin 15 to Net-(U3-SDA).
+Added U1 (footprint 'Sensor:Aosong_DHT11_5.5x12.0_P2.54mm').
+Changed REF** reference designator to U1.
+Changed U1 value from Aosong_DHT11_5.5x12.0_P2.54mm to DHT11.
+Updated U1 symbol association from  to /e479c723-6ad4-4c7c-8c29-0555f8755047.
+Updated U1 fields.
+Updated U1 sheetname to 'Root'.
+Updated U1 sheetfile to 'circuit _board.kicad_sch'.
+Updated U1 footprint filters to 'Aosong*DHT11*5.5x12.0*P2.54mm*'.
+Add net Earth.
+Connected U1 pin 4 to Earth.
+Connected U1 pin 2 to Net-(A1-D2).
+Add net unconnected-(U1-NC-Pad3).
+Connected U1 pin 3 to unconnected-(U1-NC-Pad3).
+Add net +5V.
+Connected U1 pin 1 to +5V.
+Added U2 (footprint 'Display:LCD-016N002L').
+Changed REF** reference designator to U2.
+Updated U2 symbol association from  to /d6cf0b77-3d68-44c8-96e9-1784f56e9d18.
+Updated U2 fields.
+Updated U2 sheetname to 'Root'.
+Updated U2 sheetfile to 'circuit _board.kicad_sch'.
+Updated U2 footprint filters to '*LCD*016N002L*'.
+Add net unconnected-(U2-DB2-Pad9).
+Connected U2 pin 9 to unconnected-(U2-DB2-Pad9).
+Add net Net-(U2-E).
+Connected U2 pin 6 to Net-(U2-E).
+Add net unconnected-(U2-PadK2).
+Connected U2 pin K2 to unconnected-(U2-PadK2).
+Add net unconnected-(U2-DB3-Pad10).
+Connected U2 pin 10 to unconnected-(U2-DB3-Pad10).
+Add net unconnected-(U2-A/VEE-Pad15).
+Connected U2 pin 15 to unconnected-(U2-A/VEE-Pad15).
+Add net unconnected-(U2-DB1-Pad8).
+Connected U2 pin 8 to unconnected-(U2-DB1-Pad8).
+Add net unconnected-(U2-VDD-Pad2).
+Connected U2 pin 2 to unconnected-(U2-VDD-Pad2).
+Add net Net-(U2-DB5).
+Connected U2 pin 12 to Net-(U2-DB5).
+Add net unconnected-(U2-VSS-Pad1).
+Connected U2 pin 1 to unconnected-(U2-VSS-Pad1).
+Add net Net-(U2-DB4).
+Connected U2 pin 11 to Net-(U2-DB4).
+Add net Net-(U2-RS).
+Connected U2 pin 4 to Net-(U2-RS).
+Add net unconnected-(U2-PadA2).
+Connected U2 pin A2 to unconnected-(U2-PadA2).
+Add net unconnected-(U2-DB0-Pad7).
+Connected U2 pin 7 to unconnected-(U2-DB0-Pad7).
+Add net Net-(U2-R/~{W}).
+Connected U2 pin 5 to Net-(U2-R/~{W}).
+Add net unconnected-(U2-VO-Pad3).
+Connected U2 pin 3 to unconnected-(U2-VO-Pad3).
+Add net unconnected-(U2-K-Pad16).
+Connected U2 pin 16 to unconnected-(U2-K-Pad16).
+Add net unconnected-(U2-PadK1).
+Connected U2 pin K1 to unconnected-(U2-PadK1).
+Add net unconnected-(U2-PadA1).
+Connected U2 pin A1 to unconnected-(U2-PadA1).
+Add net Net-(U2-DB6).
+Connected U2 pin 13 to Net-(U2-DB6).
+Add net Net-(U2-DB7).
+Connected U2 pin 14 to Net-(U2-DB7).
+Added U3 (footprint 'Package_DIP:DIP-16_W7.62mm').
+Changed REF** reference designator to U3.
+Changed U3 value from DIP-16_W7.62mm to PCF8574P.
+Updated U3 symbol association from  to /692cdcb7-c3ce-44b7-93e2-540c108f839c.
+Updated U3 fields.
+Updated U3 sheetname to 'Root'.
+Updated U3 sheetfile to 'circuit _board.kicad_sch'.
+Updated U3 footprint filters to 'DIP*W7.62mm*'.
+Connected U3 pin 10 to Net-(U2-DB5).
+Connected U3 pin 11 to Net-(U2-DB6).
+Connected U3 pin 14 to Net-(U3-SCL).
+Connected U3 pin 3 to +5V.
+Connected U3 pin 6 to Net-(U2-E).
+Add net unconnected-(U3-VDD-Pad16).
+Connected U3 pin 16 to unconnected-(U3-VDD-Pad16).
+Add net unconnected-(U3-~{INT}-Pad13).
+Connected U3 pin 13 to unconnected-(U3-~{INT}-Pad13).
+Connected U3 pin 1 to +5V.
+Add net unconnected-(U3-GND-Pad8).
+Connected U3 pin 8 to unconnected-(U3-GND-Pad8).
+Connected U3 pin 12 to Net-(U2-DB7).
+Connected U3 pin 9 to Net-(U2-DB4).
+Connected U3 pin 2 to +5V.
+Add net unconnected-(U3-P3-Pad7).
+Connected U3 pin 7 to unconnected-(U3-P3-Pad7).
+Connected U3 pin 4 to Net-(U2-RS).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add L1 (no footprint assigned).
+Error: Cannot add RV4 (no footprint assigned).
+Error: Cannot add RV3 (no footprint assigned).
+Error: Cannot add RV2 (no footprint assigned).
+Error: Cannot add U4 (no footprint assigned).
+Error: Cannot add RV1 (no footprint assigned).
+Error: Cannot add U5 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 8.
